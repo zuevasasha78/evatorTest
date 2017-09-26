@@ -1,1 +1,1 @@
-Запуск из консоли. Команда mvn clean test-D SUITE=test
+Запуск тестов из консоли. Команда mvn clean test
