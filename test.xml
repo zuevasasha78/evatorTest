@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="test">
+    <test name="test" >
+        <classes>
+            <class name="ru.shop.tests.GetProductTest"/>
+        </classes>
+    </test>
+</suite>
